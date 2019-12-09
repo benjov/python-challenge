@@ -21,7 +21,7 @@ import os
 import csv
 
 # II. Path to collect DATA:
-budget_data_csv = os.path.join('DATA', 'budget_data.csv')
+budget_data_csv = os.path.join('..', '..', 'python-challenge-DATA', 'budget_data.csv')
 
 # III. Function(s):
 def PyBank(Dataset, Monthset):

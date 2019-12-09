@@ -21,7 +21,7 @@ import os
 import csv
 
 # II. Path to collect DATA:
-election_data_csv = os.path.join('DATA', 'election_data.csv')
+election_data_csv = os.path.join('..', '..', 'python-challenge-DATA', 'election_data.csv')
 
 # III. Function(s):
 # III. Function(s):
